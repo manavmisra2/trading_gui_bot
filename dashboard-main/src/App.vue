@@ -13,8 +13,7 @@ import { mapActions, mapState, mapWritableState } from 'pinia'
 import { useMainStore } from '@/stores/main'
 import Login from '@/views/Login'
 import axios from '@/http'
-
-
+// remove authentication
 export default {
   name: 'App',
   components: {
