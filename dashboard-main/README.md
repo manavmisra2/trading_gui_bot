@@ -33,7 +33,4 @@ Lints and fixes files:
 ```sh
 npm run lint
 ```
-
-## Credits
-
-Many thanks to the contributors of this repository especially [Nicolay Zlobin](https://github.com/nicolay-zlobin) and [Morteza](https://github.com/morteza-koohgard) who helped a lot with the development of the initial version of the dashboard.
+Thanks for Reading :) !!!
