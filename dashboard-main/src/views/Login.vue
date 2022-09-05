@@ -44,7 +44,6 @@
 </template>
 
 <script>
-  // remove authentication
 
 import { ArrowNarrowRightIcon, LockClosedIcon } from '@heroicons/vue/outline/esm'
 import axios from '@/http'
